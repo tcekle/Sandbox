@@ -7,7 +7,6 @@ from pygame.color import *
 from pygame.compat import geterror
 import pymunk
 
-"""From moodle"""
 try:
     main_dir = os.path.dirname(os.path.abspath(__file__))
 except:
