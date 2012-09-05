@@ -9,7 +9,7 @@ from math import sqrt
 
 collisiontype_default = 0
 COLLTYPE_MOUSE = 1
-"""From moodle"""
+
 try:
     main_dir = os.path.dirname(os.path.abspath(__file__))
 except:
