@@ -1,0 +1,163 @@
+#new line
+0
+0
+800
+0
+#new line
+0
+0
+0
+600
+#new line
+0
+600
+800
+600
+#new line
+800
+600
+800
+0
+
+#new line
+100
+300
+100
+320
+#new line
+100
+320
+120
+320
+#new line
+120
+320
+120
+300
+#new line
+120
+300
+100
+300
+
+#new line
+700
+300
+700
+320
+#new line
+700
+320
+680
+320
+#new line
+680
+320
+680
+300
+#new line
+680
+300
+700
+300
+
+#new line
+5
+334
+5
+354
+#new line
+5
+334
+25
+334
+#new line
+25
+354
+25
+334
+#new line
+5
+354
+25
+354
+
+#new line
+795
+334
+795
+354
+#new line
+795
+334
+775
+334
+#new line
+795
+354
+775
+354
+#new line
+775
+354
+775
+334
+
+#new line
+250
+500
+550
+500
+#new line
+250
+500
+250
+490
+#new line
+250
+490
+550
+490
+#new line
+550
+500
+550
+490
+
+#new rect
+170
+5
+200
+550
+#new rect
+170
+5
+200
+550
+#new rect
+100
+5
+200
+500
+
+#new triangle
+30
+700
+550
+#new triangle
+30
+700
+550
+
+#new rect
+50
+25
+550
+550
+
+#finish
+400
+135
+#finish ball
+750
+550

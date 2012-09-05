@@ -1,0 +1,43 @@
+#new line
+0
+0
+800
+0
+#new line
+0
+0
+0
+600
+#new line
+0
+600
+800
+600
+#new line
+800
+600
+800
+0
+#new triangle
+40
+250
+550
+#new triangle
+40
+252
+550
+#new triangle
+40
+254
+550
+#new rect
+35
+50
+400
+530
+#finish
+400
+408
+#finish ball
+750
+550

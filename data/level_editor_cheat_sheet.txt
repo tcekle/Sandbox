@@ -1,0 +1,57 @@
+pos(0,0) is upper left corner for all objects
+pos(0,0) is lower left corner for lines
+x_max = 800
+y_max = 600
+
+// Make the bounding box for the level, should be in all levels, otherwise objects might "escape"
+#new line
+0
+0
+800
+0
+#new line
+0
+0
+0
+600
+#new line
+0
+600
+800
+600
+#new line
+800
+600
+800
+0
+
+#new line // make new line
+pos_x1
+pos_y1
+pos_x2
+pos_y2
+
+#new triangle  // make triangle
+size
+pos_x
+pos_y
+
+#new rect  // make rectangle
+width
+height
+pos_x
+pos_y
+
+#new ball  // make ball
+radius
+pos_x
+pos_y
+
+#finish ball // make the ball that must be solved
+pos_x
+pos_y
+
+
+#finish  // where the finish ball should go. Must be in game, otherwise level crashes
+pos_x
+pos_y

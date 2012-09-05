@@ -1,0 +1,41 @@
+#new line
+0
+0
+800
+0
+#new line
+0
+0
+0
+600
+#new line
+0
+600
+800
+600
+#new line
+800
+600
+800
+0
+#new line
+250
+320
+400
+200
+#new line
+400
+200
+550
+320
+#new rect
+83
+5
+400
+550
+#finish
+400
+300
+#finish ball
+750
+550
